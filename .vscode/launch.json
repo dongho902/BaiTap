@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch hohhd2008110098_lap1",
+            "request": "launch",
+            "mainClass": "com.hohhd2008110098.lap1.hohhd2008110098_lap1",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
             "name": "Launch lap2bai4",
             "request": "launch",
             "mainClass": "lap2bai4",
