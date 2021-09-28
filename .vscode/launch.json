@@ -1,0 +1,99 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch lap2bai4",
+            "request": "launch",
+            "mainClass": "lap2bai4",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch lap2bai3",
+            "request": "launch",
+            "mainClass": "vn.edu.giadinh.lap2bai3",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch lap2bai2",
+            "request": "launch",
+            "mainClass": "lap2bai2",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lap2",
+            "request": "launch",
+            "mainClass": "Lap2",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch hohhd2008110098_lap1bai4",
+            "request": "launch",
+            "mainClass": "hohhd2008110098_lap1bai4",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch hohhd2008110098_lap1bai3",
+            "request": "launch",
+            "mainClass": "hohhd2008110098_lap1bai3",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch hohhd2008110098_lap1",
+            "request": "launch",
+            "mainClass": "vn.edu.giadinh.hohhd2008110098_lap1",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch hohhd2008110098",
+            "request": "launch",
+            "mainClass": "hohhd2008110098",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai1",
+            "request": "launch",
+            "mainClass": "bai1",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai2",
+            "request": "launch",
+            "mainClass": "vn.edu.giadinh.bai2",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch lap1",
+            "request": "launch",
+            "mainClass": "vn.edu.giadinh.lap1",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch lap2",
+            "request": "launch",
+            "mainClass": "vn.edu.giadinh.lap2",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
