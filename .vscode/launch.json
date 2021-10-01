@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Bai3lap3",
+            "request": "launch",
+            "mainClass": "com.hohhd2008110098.Bai3lap3",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai2lap3",
+            "request": "launch",
+            "mainClass": "com.hohhd2008110098.bai2lap3",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch lap3",
+            "request": "launch",
+            "mainClass": "com.hohhd2008110098.lap3",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch lap2bai2",
+            "request": "launch",
+            "mainClass": "com.hohhd2008110098.lap2.lap2bai2",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
             "name": "Launch hohhd2008110098_lap1",
             "request": "launch",
             "mainClass": "com.hohhd2008110098.lap1.hohhd2008110098_lap1",
