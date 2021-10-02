@@ -1,4 +1,4 @@
-package com.hohhd2008110098;
+package com.hohhd2008110098.lap3;
 import java.util.Scanner;
 public class lap3 {
     public static void main(String[] args) {
