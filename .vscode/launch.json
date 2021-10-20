@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MayTinhTestDiver",
+            "request": "launch",
+            "mainClass": "vn.edu.giadinh.MayTinhTestDiver",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
             "name": "Launch bank",
             "request": "launch",
             "mainClass": "com.hohhd2008110098.bank",
