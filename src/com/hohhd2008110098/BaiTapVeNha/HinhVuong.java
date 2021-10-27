@@ -9,7 +9,7 @@ public class HinhVuong {
         click =  true ;
     }
     void  playMusic () {
-        if (nhấp vào ==  true ) {
+        if (click ==  true ) {
            System.out.println("Âm nhạc được phát "+ amThanh);
 
         }
@@ -19,4 +19,3 @@ public class HinhVuong {
     
 }
     
-}
