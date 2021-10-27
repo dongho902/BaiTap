@@ -7,7 +7,7 @@ public class TestDriver {
 public static void main(String[] args) {
     int LuaChon ;
     do{
-        System.out.println(" 1. tam giac \n 2. hinh tron \n 3. Hinh Vuong \n 4. Amoeba \n thoat \n ");
+        System.out.println(" 1. tam giac \n 2. hinh tron \n 3. Hinh Vuong \n 4. Amoeba \n ");
         Scanner output = new Scanner(System.in);
         LuaChon = output.nextInt();
         switch(LuaChon ){
