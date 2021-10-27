@@ -2,9 +2,9 @@ package com.hohhd2008110098.BaiTapVeNha;
 
 public class test {
     public  static  void  main ( String [] args ) {
-		Triangle tamGiac =  new  Triangle();
-		Square vuong =  new  Square();
-		Circle tron =  new  Circle();
+		HinhTamGiac tamGiac =  new  HinhTamGiac();
+		HinhVuong vuong =  new  HinhVuong();
+		HinhTron tron =  new  HinhTron();
 
 		tamGiac . xoay();
 		tamGiac . chơi nhạc();
