@@ -15,7 +15,6 @@ public class SVCNNT extends SV{
 
     @Override
     public double getDiem() {
-        //Ghi đè lên getDiem tính điểm cho SvIT
         System.out.println("Điểm SinhViên IT : "+((2*diemJava)+diemCss+diemHtml)/4);
         return this.diemCss;
     }
