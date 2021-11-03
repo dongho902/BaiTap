@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "vn.edu.giadinh.hello",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestBanHang",
+            "request": "launch",
+            "mainClass": "com.hohhd2008110098.Lab8.TestBanHang",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
             "name": "Launch person",
             "request": "launch",
             "mainClass": "vn.edu.giadinh.person",

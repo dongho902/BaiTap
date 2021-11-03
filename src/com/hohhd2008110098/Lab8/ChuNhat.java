@@ -19,9 +19,9 @@ public class ChuNhat {
         return ChieuDai;
 
     }
-    public double setChieuRong(){
+    public void setChieuRong(){
         this.ChieuRong = ChieuRong;
-
+    
     }
     private double getDienTich;
     private double getChuVi;
@@ -30,7 +30,7 @@ public class ChuNhat {
         System.out.println("Chieu Dai"+ChieuDai);
         System.out.println("Chieu Rong"+ChieuRong);
         System.out.println("chu vi :"+(getChieuDai()+getChieuRong())*2);
-        System.out.println("Dien Tich"(getChieuDai()*getChieuRong()));
+        System.out.println("Dien Tich"+(getChieuDai()*getChieuRong()));
 
         
     }

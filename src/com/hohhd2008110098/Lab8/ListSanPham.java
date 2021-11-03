@@ -10,7 +10,7 @@ public class ListSanPham {
     public void nhapDanhSach()
     {
         SanPham sanpham = new SanPham();
-        sanpham.nhap();
+        sanpham.Nhap();
         sc.nextLine();
         danhsachSP.add(sanpham);
         System.out.println(sanpham);
