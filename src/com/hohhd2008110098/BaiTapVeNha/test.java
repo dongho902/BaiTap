@@ -6,14 +6,14 @@ public class test {
 		HinhVuong vuong =  new  HinhVuong();
 		HinhTron tron =  new  HinhTron();
 
-		tamGiac . xoay();
-		tamGiac . chơi nhạc();
+		tamGiac . turn();
+		tamGiac . playMusic();
 
-		vuong . xoay();
-		vuong . chơi nhạc();
+		vuong .turn();
+		vuong . playMusic();
 
-		tron . xoay();
-		tron . chơi nhạc();
+		tron . turn();
+		tron . playMusic();
 	
     }
 }
