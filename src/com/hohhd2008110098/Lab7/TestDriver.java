@@ -2,7 +2,7 @@ package com.hohhd2008110098.Lab7;
 
 import java.util.Scanner;
 
-import com.hohhd2008110098.BaiTapVeNha.HinhTamGiac;
+import com.hohhd2008110098.BaiTapVeNha.TamGiac;
 public class TestDriver {
 public static void main(String[] args) {
     int LuaChon ;

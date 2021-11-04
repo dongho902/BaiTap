@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch testDiver",
+            "request": "launch",
+            "mainClass": "com.hohhd2008110098.KiemTraGiuaKi.testDiver",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch testDiver",
+            "request": "launch",
+            "mainClass": "com.hohhd2008110098.Lab8.testDiver",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
             "name": "Launch hello",
             "request": "launch",
             "mainClass": "vn.edu.giadinh.hello",
