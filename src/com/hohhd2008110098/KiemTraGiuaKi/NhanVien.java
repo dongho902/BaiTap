@@ -35,4 +35,9 @@ public class NhanVien extends Nguoi{
         System.out.println("THÔNG TIN NHÂN VIÊN");
         System.out.println("Số lương Nhân Viên : "+(1500000*heSoluong));
     }
+    public String toString(){
+        String s ; 
+    s = "\n Ten Nhan Vien  :"+getHoTen()+"Địa chỉ:"+getDiaChi()+"hệ số lương :"getHeSoluong();
+    return s;
+    }
 }
