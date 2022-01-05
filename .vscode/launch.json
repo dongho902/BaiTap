@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch testDrive",
+            "request": "launch",
+            "mainClass": "com.hohhd200110098LTIOT.testDrive",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuanLi",
+            "request": "launch",
+            "mainClass": "com.hohhd200110098LTIOT.KiemTraCuoiKi.QuanLi",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch HHtestDriver",
+            "request": "launch",
+            "mainClass": "com.hohhd200110098LTIOT.KiemTraCuoiKi.HHtestDriver",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch CTquanliSieuthi",
+            "request": "launch",
+            "mainClass": "com.hohhd200110098LTIOT.KiemTraCuoiKi.CTquanliSieuthi",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
+            "name": "Launch testDrive",
+            "request": "launch",
+            "mainClass": "com.hohhd200110098LTIOT.KiemTraCuoiKi.testDrive",
+            "projectName": "Myproject YuNo_23cf5162"
+        },
+        {
+            "type": "java",
             "name": "Launch testDiver",
             "request": "launch",
             "mainClass": "com.hohhd2008110098.KiemTraGiuaKi.testDiver",
